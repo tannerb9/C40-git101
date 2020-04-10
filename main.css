@@ -3,3 +3,9 @@ h1 {
   color: purple;
   padding: 5x;
 }
+
+nav {
+  display: flex;
+  padding: 5x;
+  border: 1px solid;
+}
